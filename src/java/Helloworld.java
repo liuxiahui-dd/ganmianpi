@@ -10,4 +10,8 @@ public class Helloworld {
         System.out.println("dsid");
     }
 
+    public void test() {
+        int i=0;
+        System.out.println(i);
+    }
 }
